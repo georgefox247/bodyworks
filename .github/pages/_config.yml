@@ -1,7 +1,7 @@
 # GitHub Pages Configuration
-repo_owner: theydonbodyworks
-repo_name: co-uk
-branch: main
+repo_owner: georgefox247
+repo_name: bodyworks
+branch: /web
 root_folder: public
 gh_token: null
 deploy_keys: []
