@@ -2,7 +2,7 @@
 Pushing to GitHub using the personal access token...
 
 $pat = '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'
-$repository = 'https://github.com/georgefox247/co-uk.git'
+$repository = 'https://github.com/georgefox247/bodyworks.git'
 $remote = git remote get-url origin 2>$null
 
 if ($remote -eq '') {
