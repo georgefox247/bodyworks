@@ -2,7 +2,6 @@
 title: Theydon Bodyworks - Professional Accident Damage Repair in Epping, Essex
 description: Expert dent removal, spray painting, and wheel refurbishment services near you. Get a quick quote via WhatsApp!
 theme: github
-url: https://georgefox247.github.io/bodyworks/
-baseurl: /bodyworks/
+url: https://georgefox247.github.io/
 branches:
   - main
