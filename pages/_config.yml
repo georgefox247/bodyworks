@@ -1,7 +1,0 @@
-# GitHub Pages Configuration
-repo_owner: theydonbodyworks
-repo_name: co-uk
-branch: main
-root_folder: public
-gh_token: null
-deploy_keys: []
