@@ -1,7 +1,8 @@
 # GitHub Pages Configuration
-repo_owner: georgefox247
-repo_name: bodyworks
-branch: /web
-root_folder: public
-gh_token: null
-deploy_keys: []
+title: Theydon Bodyworks - Professional Accident Damage Repair in Epping, Essex
+description: Expert dent removal, spray painting, and wheel refurbishment services near you. Get a quick quote via WhatsApp!
+theme: github
+url: https://georgefox247.github.io/bodyworks/
+baseurl: /bodyworks/
+branches:
+  - main
